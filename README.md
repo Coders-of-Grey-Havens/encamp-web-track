@@ -38,7 +38,7 @@
 - [ ] [Define the Head and Body of an HTML Document](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/define-the-head-and-body-of-an-html-document) <br>
 
 
-<h1 style="padding:20px;color:white;background-color:#1F8597;text-align:center">Module 2 - Basic CSS</h1>
+<h1 style="padding:20px;color:wite;background-color:#1F8597;text-align:center">Module 2 - Basic CSS</h1>
 
 <li style="list-style:none;padding:20px;">
 <a href="#" style=""><b style="padding:10px;background-color:#F4A896;color:#1F8597">s</b></a>
