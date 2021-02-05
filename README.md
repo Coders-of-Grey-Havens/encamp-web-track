@@ -1,7 +1,7 @@
 <h1 style="padding:20px;color:white;background-color:#1F8597;text-align:center">Basic HTML</h1>
 
 
-<h2 style="padding:20px;color:white;background-color:#1F8597;text-align:center">Module 1</h1>
+<h2 style="padding:20px;color:white;background-color:#1F8597;text-align:center">Module 1</h2>
 
 
 - [ ] [Introduction to Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/) <br>
@@ -19,7 +19,7 @@
 - [ ] [Nest an Anchor Element within a Paragraph](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/nest-an-anchor-element-within-a-paragraph) <br>
 - [ ] [Make Dead Links Using the Hash Symbol](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/make-dead-links-using-the-hash-symbol) <br>
 
-<h2 style="padding:20px;color:white;background-color:#1F8597;text-align:center">Module 2</h1>
+<h2 style="padding:20px;color:white;background-color:#1F8597;text-align:center">Module 2</h2>
 
 - [ ] [Turn an Image into a Link](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/turn-an-image-into-a-link) <br>
 - [ ] [Create a Bulleted Unordered List](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-bulleted-unordered-list) <br>
