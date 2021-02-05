@@ -1,6 +1,6 @@
 Module 1
 
--[ ] [Introduction to Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/) <br>
+- [ ] [Introduction to Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/) <br>
 -[ ] [Say Hello to HTML Elements](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/say-hello-to-html-elements) <br>
 -[ ] [Headline with the h2 Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/headline-with-the-h2-element) <br>
 -[ ] [Inform with the Paragraph Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/inform-with-the-paragraph-element) <br>
