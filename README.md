@@ -1,7 +1,7 @@
 <h1 style="padding:20px;color:white;background-color:#1F8597;text-align:center">Basic HTML</h1>
 
 
-<h2 style="padding:20px;color:white;background-color:#1F8597;text-align:center">Module 1</h2>
+<h3 style="padding:20px;color:white;background-color:#1F8597;text-align:center">Module 1</h3>
 
 
 - [Introduction to Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/) <br>
@@ -19,7 +19,7 @@
 - [Nest an Anchor Element within a Paragraph](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/nest-an-anchor-element-within-a-paragraph) <br>
 - [Make Dead Links Using the Hash Symbol](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/make-dead-links-using-the-hash-symbol) <br>
 
-<h2 style="padding:20px;color:white;background-color:#1F8597;text-align:center">Module 2</h2>
+<h3 style="padding:20px;color:white;background-color:#1F8597;text-align:center">Module 2</h3>
 
 - [Turn an Image into a Link](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/turn-an-image-into-a-link) <br>
 - [Create a Bulleted Unordered List](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-bulleted-unordered-list) <br>
@@ -38,9 +38,9 @@
 - [Define the Head and Body of an HTML Document](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/define-the-head-and-body-of-an-html-document) <br>
 
 
-<h1 style="padding:20px;color:white;background-color:#1F8597;text-align:center">Module 2 - Basic CSS</h1>
+<h1 style="padding:20px;color:white;background-color:#1F8597;text-align:center">Basic CSS</h1>
 
-<h3 style="padding:5px;color:white;background-color:#1F8597;text-align:center">Module 2.1</h3>
+<h3 style="padding:5px;color:white;background-color:#1F8597;text-align:center">Module 2</h3>
 <ul >
 <li>
 <a  href="https://www.freecodecamp.org/learn/responsive-web-design/basic-css/">1. Basic-css </a>
@@ -103,6 +103,8 @@
 <a  href="https://www.freecodecamp.org/learn/responsive-web-design/basic-css/set-the-id-of-an-element">15. set-the-id-of-an-element</a>
 </li>
 
+<h3 style="padding:5px;color:white;background-color:#1F8597;text-align:center">Module 4</h3>
+
 <li>
 <a  href="https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-an-id-attribute-to-style-an-element">16. use-an-id-attribute-to-style-an-element</a>
 </li>
@@ -162,6 +164,8 @@
 <li>
 <a  href="https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-class-declarations-by-styling-id-attributes">30. override-class-declarations-by-styling-id-attributes</a>
 </li>
+
+<h3 style="padding:5px;color:white;background-color:#1F8597;text-align:center">Module 5</h3>
 
 <li>
 <a  href="https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-class-declarations-with-inline-styles">31. override-class-declarations-with-inline-styles</a>
