@@ -1,5 +1,3 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png">
-
 <h1 style="padding:20px;color:white;background-color:#1F8597;text-align:center">Basic HTML</h1>
 
 
@@ -38,3 +36,7 @@
 - [Nest Many Elements within a Single div Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/nest-many-elements-within-a-single-div-element) <br>
 - [Declare the Doctype of an HTML Document](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/declare-the-doctype-of-an-html-document) <br>
 - [Define the Head and Body of an HTML Document](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/define-the-head-and-body-of-an-html-document) <br>
+
+
+
+<a href="https://www.freecodecamp.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png"></a>
