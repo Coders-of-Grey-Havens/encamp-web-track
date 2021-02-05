@@ -1,3 +1,5 @@
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png">
+
 <h1 style="padding:20px;color:white;background-color:#1F8597;text-align:center">Basic HTML</h1>
 
 
@@ -36,19 +38,3 @@
 - [Nest Many Elements within a Single div Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/nest-many-elements-within-a-single-div-element) <br>
 - [Declare the Doctype of an HTML Document](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/declare-the-doctype-of-an-html-document) <br>
 - [Define the Head and Body of an HTML Document](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/define-the-head-and-body-of-an-html-document) <br>
- 
- 
-<h1 style="padding:20px;color:white;background-color:#1F8597;text-align:center">Module 2 - Basic CSS</h1>
-<ul style="text-align:center">
-<li style="list-style:none;padding:20px;">
-<a href="#" style="https://www.freecodecamp.org/learn/responsive-web-design/basic-css/"><b style="padding:10px;background-color:#F4A896;color:#1F8597;border-radius:10px">1. Basic-css</b></a>
-</li>
-
-<li style="list-style:none;padding:20px;">
-<a href="#" style="https://www.freecodecamp.org/learn/responsive-web-design/basic-css/change-the-color-of-text"><b style="padding:10px;background-color:#F4A896;color:#1F8597;border-radius:10px">2. change-the-color-of-text</b></a>
-</li>
-
-<li style="list-style:none;padding:20px;">
-<a href="#" style="https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-css-selectors-to-style-elements"><b style="padding:10px;background-color:#F4A896;color:#1F8597;;border-radius:10px">3. use-css-selectors-to-style-elements</b></a>
-</li>
-</ul>
