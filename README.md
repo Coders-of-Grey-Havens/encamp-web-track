@@ -39,4 +39,4 @@
 
 
 
-<a href="https://www.freecodecamp.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png"></a>
+<a href="https://www.freecodecamp.org/"><img height = "280" src="https://res.cloudinary.com/practicaldev/image/fetch/s--lfMhrPQM--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rphqzfoh2cbz3zj8m8t1.png"></a>
