@@ -20,3 +20,26 @@
 - [ ] [Make Dead Links Using the Hash Symbol](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/make-dead-links-using-the-hash-symbol) <br>
 
 <h2 style="padding:20px;color:white;background-color:#1F8597;text-align:center">Module 2</h2>
+
+- [ ] [Turn an Image into a Link](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/turn-an-image-into-a-link) <br>
+ - [ ] [Create a Bulleted Unordered List](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-bulleted-unordered-list) <br>
+ - [ ] [Create an Ordered List](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-an-ordered-list) <br>
+ - [ ] [Create a Text Field](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-text-field) <br>
+ - [ ] [Add Placeholder Text to a Text Field](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/add-placeholder-text-to-a-text-field) <br>
+ - [ ] [Create a Form Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-form-element) <br>
+ - [ ] [Add a Submit Button to a Form](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/add-a-submit-button-to-a-form) <br>
+ - [ ] [Use HTML5 to Require a Field](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/use-html5-to-require-a-field) <br>
+ - [ ] [Create a Set of Radio Buttons](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-set-of-radio-buttons) <br>
+ - [ ] [Create a Set of Checkboxes](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-set-of-checkboxes) <br>
+ - [ ] [Use the value attribute with Radio Buttons and Checkboxes](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/use-the-value-attribute-with-radio-buttons-and-checkboxes) <br>
+ - [ ] [Check Radio Buttons and Checkboxes by Default](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/check-radio-buttons-and-checkboxes-by-default) <br>
+ - [ ] [Nest Many Elements within a Single div Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/nest-many-elements-within-a-single-div-element) <br>
+ - [ ] [Declare the Doctype of an HTML Document](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/declare-the-doctype-of-an-html-document) <br>
+ - [ ] [Define the Head and Body of an HTML Document](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/define-the-head-and-body-of-an-html-document) <br>
+ 
+ 
+ <h1 style="padding:20px;color:white;background-color:#1F8597;text-align:center">Module 2 - Basic CSS</h1>
+ 
+ <li style="list-style:none;padding:20px;">
+ <a href="#" style=""><b style="padding:10px;background-color:#F4A896;color:#1F8597">s</b></a>
+ </li>
